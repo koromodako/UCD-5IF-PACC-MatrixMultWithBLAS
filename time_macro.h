@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   time_macro.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-05
 Purpose:
     Contains macros helpers to time operations in a C program.

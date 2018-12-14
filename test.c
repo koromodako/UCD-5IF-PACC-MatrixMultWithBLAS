@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   test.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-05
 Purpose:
     Contains function implementations related to matrix tests.

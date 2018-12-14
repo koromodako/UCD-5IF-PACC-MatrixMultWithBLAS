@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   main.c
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-05
 Purpose:
     Matmult program entry point.

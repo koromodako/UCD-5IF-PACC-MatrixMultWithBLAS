@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   matrix.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-05
 Purpose:
     This file defines all functions prototypes needed to manipulate matrices

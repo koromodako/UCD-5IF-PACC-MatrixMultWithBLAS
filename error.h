@@ -1,6 +1,6 @@
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 File:   error.h
-Author: paul dautry
+Author: koromodako
 Date:   2016-10-05
 Purpose:
     This file defines all error codes used within the program and function prototypes for error-related operations 
